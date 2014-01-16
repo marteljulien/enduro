@@ -74,5 +74,12 @@ a:hover { opacity: .7; }
 }
 
 
-
+.ui-bar-a{
+border: 1px solid red;
+background: red;
+color: white;
+font-weight: bold;
+text-shadow: 0 -1px 1px black;
+// si vous voulez du dégradé, modifiez le dégradé comme bon vous semble.
+}
 
