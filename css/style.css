@@ -68,7 +68,7 @@ a:hover { opacity: .7; }
 
 .menu { display: none }
 #pageslide .menu { display: block; }
-#pageslide .menu a { float: none; display: block; width: 100%; color: #000; border-bottom: 1px solid #000; box-shadow: 0 1px 0 #555; border-radius: 0; background: none; text-align: left;  }
+#pageslide .menu a { float: none; display: block; width: 100%; color: #FFF; border-bottom: 1px solid #000; box-shadow: 0 1px 0 #555; border-radius: 0; background: none; text-align: left;  }
 
 @media only screen and (min-width: 35em) {
   .menu { display: block; }
